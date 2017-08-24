@@ -1,1 +1,1 @@
-### Play with Travis CI
+### Homework / Play with Travis CI
